@@ -1,0 +1,8 @@
+{
+  "name": "مطعم الدمشقي - كفر الزيات",
+  "description": "الموقع الرسمي لمطعم الدمشقي بمدينة كفر الزيات، شارع صلاح الدين. أشهى المأكولات السورية والشامية والشاورما الأصلية مع خدمات الصالة والتيك أواي والتوصيل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
